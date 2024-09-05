@@ -7,6 +7,7 @@
         <div class="container">
             <h2>¡Gracias por Contactarnos!</h2>
             <p>Nos pondremos en contacto contigo pronto.</p>
+            <p>NOSE QUE PONER CONTACTANOS POR WHATSAPP </p>
         </div>
     </section>
 @endsection
